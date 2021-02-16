@@ -2,6 +2,7 @@
 # compiled source #
 ###################
 /.idea
+/.vs
 *.com
 *.class
 *.dll
